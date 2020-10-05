@@ -1,3 +1,4 @@
+#Created by Brahmaraj Rathod.
 import nltk
 from nltk.corpus import words
 s=list(map(str,input("Enter Text to be decrypted seperated by space:\n").split()))
